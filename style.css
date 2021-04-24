@@ -418,7 +418,15 @@ nav {
         position: fixed;
        
     }
-
+.about-page{
+    padding:0;
+    }
+    .my-work{
+        padding:0;
+    }
+    .footer{
+        padding:0;
+    }
     @keyframes open-nav {
 
         100% {}
